@@ -17,4 +17,3 @@ contract Lottery {
             TicketTaken[ticketNumber] = true;    
         }
     }
-}
